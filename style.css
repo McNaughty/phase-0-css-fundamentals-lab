@@ -3,3 +3,56 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+  color: red;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+
+figcaption {
+  font-size: 15px;
+}
+
+.wrapper {
+  #margin: 0 auto;
+  margin-left: 30%;
+  width: 60%;
+  
+} 
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.featured-property{
+  margin-left: auto;
+  #margin-right: auto;
+  padding-bottom: 40px;
+  width: 800px;
+}
+
+.featured-property.p {
+  text-align: center;
+}
+
+
+#details{
+  background:red;
+  float: left;
+  width: 25%;
+  padding: 25px;
+}
+#floatright{
+  background:red;
+  float: left;
+  #width: 25%;
+  padding: 25px;
+}
